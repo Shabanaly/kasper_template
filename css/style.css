@@ -17,7 +17,7 @@
 html {
   scroll-behavior: smooth;
   scrollbar-width: thin; /* Firefox */
-  scrollbar-color: var(--main-color) var(--transparent-color); /* thumb + track */
+  scrollbar-color: var(--main-color) #ccc; /* thumb + track */
 }
 
 /* Chrome, Edge, Safari */
@@ -26,7 +26,7 @@ html {
 }
 
 ::-webkit-scrollbar-track {
-  background: var(--transparent-color);
+  background: #ccc;
 }
 
 ::-webkit-scrollbar-thumb {
