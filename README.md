@@ -24,3 +24,9 @@ This repo contains a static website template built with **HTML**, **CSS**, and a
 
 ## 📁 Project Structure
 
+kasper_template/
+├─ css/ ← All stylesheet files
+├─ images/ ← Image assets
+├─ webfonts/ ← Font files
+├─ index.html ← Main homepage
+└─ README.md ← This documentation
